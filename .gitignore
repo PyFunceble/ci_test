@@ -1,0 +1,5 @@
+# VS Code related
+.vscode
+
+# Env related
+miniconda.sh

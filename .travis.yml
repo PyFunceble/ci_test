@@ -1,0 +1,29 @@
+env:
+  global:
+    - PYFUNCEBLE_AUTO_CONFIGURATION: YES
+    - PYTHON_VERSION: 3.8.1
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - secure: pT1bWwYTy58RLWQGrJcLdycpbDMl951Lx1ikpaKBNJVHkQdYeVuLABGCsi7NDlg+/TqaTSYsmKCBMWff7YDs/yYVlVlRP8t9kfdyPb30fL7k8XvCgChJ+cre7GbrEepmTrxh0pdelI/o0pA6kh5EdYo2r6XobQP/oSIGO5pL2g/33XmTEOuQ+CrnxrsBHQU7G5YgRTs7o500pv+12I7X4NFDywm+8tyoz0EoZq+sG/VGoUiBvrO2+nvoFcCSEsVVw0Hw/OoHBrN6WAR7BmwTnO/cnkzbUnRxaJhprrTaYoVpXeiXraqyolZa8B0kb6lvCJ2mRvtnSQvNfxqdU+Pyidy7ngBFlaO6GRb6TPwSj0pnpclS82rZYPQCQA9xwyCJqEf36YEhCy0e6giiXrA7Q09el3EWdljwgj5W9Y0r/+RcVlaw4nndGkMaG5zGw2HuPzSRQScUIbvbBM/HtJo8+2Fsi8m5dPJ8maSiyXJBtbLt0+z1xfpJpGmmbpCD7mIa9s3LaBr/uWOpqI9Fh/jFr+VQHpljuriKNO4ir9cr47LG0vuffrYiBuQdAP4D9y4jcwr80VZNeRLWCNAL6umvQVdLoAgKzbWaDvH39IyfbT57QMgNQMk0t7wAeWSw7Nxk2sUMIwuGcRIlxrk8iQh112Jqf/b/DEzCl4RJACp0+Mg=
+
+language: generic
+os: linux
+dist: bionic
+
+install:
+  - export PATH="${HOME}/miniconda/bin:${PATH}"
+  - if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O miniconda.sh; else wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh; fi
+  - bash miniconda.sh -b -p ${HOME}/miniconda
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda config --add channels conda-forge
+  - conda update -q conda
+  - conda create -q -n test-environment python="${PYTHON_VERSION}"
+  - source activate test-environment
+  - python --version --version
+  - pip --version
+  - conda --version
+  - pip install git+https://github.com/funilrys/PyFunceble.git@dev
+
+script:
+  - ./run_it

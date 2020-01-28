@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# We stop on error
+set -e
+# We are in verbose mode
+set -x
+
+PyFunceble -d github.com
+
+PyFunceble -f test.list --travis
+
+set +e
+set +x
