@@ -43,6 +43,15 @@ discörd.com
 xn--disordapp-s3a.com
 disçordapp.com
 
+# srv records with by default breaks RFC
+_ldap._tcp.example.org
+_ldap._tcp.example.net
+_ldap._tcp.example.com
+_http._tcp.example.org
+_http._tcp.example.net
+_http._tcp.example.com
+
+
 # Controversial
 apple.com
 microsoft.de
