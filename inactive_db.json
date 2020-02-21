@@ -1,23 +1,21 @@
 {
     "test.list": {
-        "1582139727": {
+        "1582312559": {
             "failure.is.the.only.option.mypdns.org": "INACTIVE"
         },
-        "1582139728": {
-            "_ldap._tcp.example.org": "INACTIVE"
-        },
-        "1582139729": {
+        "1582312561": {
             "_http._tcp.example.com": "INACTIVE",
             "_http._tcp.example.net": "INACTIVE",
             "_http._tcp.example.org": "INACTIVE",
             "_ldap._tcp.example.com": "INACTIVE",
-            "_ldap._tcp.example.net": "INACTIVE"
+            "_ldap._tcp.example.net": "INACTIVE",
+            "_ldap._tcp.example.org": "INACTIVE"
         },
-        "1582139730": {
+        "1582312563": {
             "1120067982.world": "INACTIVE",
             "1220057982.world": "INACTIVE"
         },
-        "1582139757": {
+        "1582312592": {
             "360safe.comð.cn": "INVALID"
         }
     }
