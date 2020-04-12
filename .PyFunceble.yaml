@@ -149,6 +149,7 @@ outputs:
     splited:
         directory: splited
 plain_list_domain: false
+print_dots: false
 quiet: false
 reputation: false
 share_logs: false
