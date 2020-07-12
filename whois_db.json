@@ -10,8 +10,8 @@
         "state": "future"
     },
     "1ccbt.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "1s3h4f7sl.com": {
@@ -25,13 +25,13 @@
         "state": "future"
     },
     "207.net": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "22pixx.xyz": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "247realmedia.com": {
@@ -70,8 +70,8 @@
         "state": "future"
     },
     "303br.net": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1655856000.0,
+        "expiration_date": "22-jun-2022",
         "state": "future"
     },
     "304br.net": {
@@ -325,8 +325,8 @@
         "state": "past"
     },
     "firebog.net": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "funilrys.com": {
@@ -360,8 +360,8 @@
         "state": "future"
     },
     "meetrics.org": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "mouseflow.com": {
@@ -370,8 +370,8 @@
         "state": "future"
     },
     "mparticle.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1656720000.0,
+        "expiration_date": "02-jul-2022",
         "state": "future"
     },
     "mypdns.org": {
@@ -475,8 +475,8 @@
         "state": "future"
     },
     "xn--disordapp-s3a.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "yaml.org": {
