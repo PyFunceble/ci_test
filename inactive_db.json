@@ -3,71 +3,71 @@
         "1120067982.world": {
             "included_at_epoch": 1594513552.386577,
             "included_at_iso": "2020-07-12T00:25:52.386577",
-            "last_retested_at_epoch": 1596571637.712894,
-            "last_retested_at_iso": "2020-08-04T20:07:17.712894",
+            "last_retested_at_epoch": 1596744506.515462,
+            "last_retested_at_iso": "2020-08-06T20:08:26.515462",
             "status": "INACTIVE"
         },
         "1220057982.world": {
             "included_at_epoch": 1594513552.602938,
             "included_at_iso": "2020-07-12T00:25:52.602938",
-            "last_retested_at_epoch": 1596571637.871061,
-            "last_retested_at_iso": "2020-08-04T20:07:17.871061",
+            "last_retested_at_epoch": 1596744506.756738,
+            "last_retested_at_iso": "2020-08-06T20:08:26.756738",
             "status": "INACTIVE"
         },
         "360safe.comð.cn": {
             "included_at_epoch": 1594513581.420949,
             "included_at_iso": "2020-07-12T00:26:21.420949",
-            "last_retested_at_epoch": 1596571664.184323,
-            "last_retested_at_iso": "2020-08-04T20:07:44.184323",
+            "last_retested_at_epoch": 1596744533.110621,
+            "last_retested_at_iso": "2020-08-06T20:08:53.110621",
             "status": "INVALID"
         },
         "_http._tcp.example.com": {
             "included_at_epoch": 1594513550.624797,
             "included_at_iso": "2020-07-12T00:25:50.624797",
-            "last_retested_at_epoch": 1596571636.044076,
-            "last_retested_at_iso": "2020-08-04T20:07:16.044076",
+            "last_retested_at_epoch": 1596744504.657612,
+            "last_retested_at_iso": "2020-08-06T20:08:24.657612",
             "status": "INACTIVE"
         },
         "_http._tcp.example.net": {
             "included_at_epoch": 1594513550.587804,
             "included_at_iso": "2020-07-12T00:25:50.587804",
-            "last_retested_at_epoch": 1596571635.99104,
-            "last_retested_at_iso": "2020-08-04T20:07:15.991040",
+            "last_retested_at_epoch": 1596744504.555574,
+            "last_retested_at_iso": "2020-08-06T20:08:24.555574",
             "status": "INACTIVE"
         },
         "_http._tcp.example.org": {
             "included_at_epoch": 1594513550.546944,
             "included_at_iso": "2020-07-12T00:25:50.546944",
-            "last_retested_at_epoch": 1596571635.937804,
-            "last_retested_at_iso": "2020-08-04T20:07:15.937804",
+            "last_retested_at_epoch": 1596744504.491042,
+            "last_retested_at_iso": "2020-08-06T20:08:24.491042",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.com": {
             "included_at_epoch": 1594513550.495053,
             "included_at_iso": "2020-07-12T00:25:50.495053",
-            "last_retested_at_epoch": 1596571635.877176,
-            "last_retested_at_iso": "2020-08-04T20:07:15.877176",
+            "last_retested_at_epoch": 1596744504.415897,
+            "last_retested_at_iso": "2020-08-06T20:08:24.415897",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.net": {
             "included_at_epoch": 1594513550.454792,
             "included_at_iso": "2020-07-12T00:25:50.454792",
-            "last_retested_at_epoch": 1596571635.824225,
-            "last_retested_at_iso": "2020-08-04T20:07:15.824225",
+            "last_retested_at_epoch": 1596744504.352182,
+            "last_retested_at_iso": "2020-08-06T20:08:24.352182",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.org": {
             "included_at_epoch": 1594513550.414624,
             "included_at_iso": "2020-07-12T00:25:50.414624",
-            "last_retested_at_epoch": 1596571635.77272,
-            "last_retested_at_iso": "2020-08-04T20:07:15.772720",
+            "last_retested_at_epoch": 1596744504.287514,
+            "last_retested_at_iso": "2020-08-06T20:08:24.287514",
             "status": "INACTIVE"
         },
         "failure.is.the.only.option.mypdns.org": {
             "included_at_epoch": 1594513549.792332,
             "included_at_iso": "2020-07-12T00:25:49.792332",
-            "last_retested_at_epoch": 1596571635.181025,
-            "last_retested_at_iso": "2020-08-04T20:07:15.181025",
+            "last_retested_at_epoch": 1596744503.692715,
+            "last_retested_at_iso": "2020-08-06T20:08:23.692715",
             "status": "INACTIVE"
         }
     }
