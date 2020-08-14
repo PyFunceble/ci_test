@@ -310,8 +310,8 @@
         "state": "future"
     },
     "example.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "example.net": {
@@ -470,8 +470,8 @@
         "state": "future"
     },
     "xn--discrd-zxa.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "xn--disordapp-s3a.com": {
