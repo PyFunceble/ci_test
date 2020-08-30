@@ -317,11 +317,13 @@
     "example.net": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "example.org": {
         "epoch": 1283126400.0,
         "expiration_date": "30-aug-2010",
+        "server": "whois.pir.org",
         "state": "past"
     },
     "firebog.net": {
