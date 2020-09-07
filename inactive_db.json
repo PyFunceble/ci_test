@@ -1,73 +1,73 @@
 {
     "test.list": {
         "1120067982.world": {
-            "included_at_epoch": 1597090231.537728,
-            "included_at_iso": "2020-08-10T20:10:31.537728",
-            "last_retested_at_epoch": 1598645727.099532,
-            "last_retested_at_iso": "2020-08-28T20:15:27.099532",
+            "included_at_epoch": 1599510011.309579,
+            "included_at_iso": "2020-09-07T20:20:11.309579",
+            "last_retested_at_epoch": 1599510011.309579,
+            "last_retested_at_iso": "2020-09-07T20:20:11.309579",
             "status": "INACTIVE"
         },
         "1220057982.world": {
-            "included_at_epoch": 1597090231.781958,
-            "included_at_iso": "2020-08-10T20:10:31.781958",
-            "last_retested_at_epoch": 1598645727.323157,
-            "last_retested_at_iso": "2020-08-28T20:15:27.323157",
+            "included_at_epoch": 1599510011.536599,
+            "included_at_iso": "2020-09-07T20:20:11.536599",
+            "last_retested_at_epoch": 1599510011.536599,
+            "last_retested_at_iso": "2020-09-07T20:20:11.536599",
             "status": "INACTIVE"
         },
         "360safe.comð.cn": {
-            "included_at_epoch": 1597090259.043141,
-            "included_at_iso": "2020-08-10T20:10:59.043141",
-            "last_retested_at_epoch": 1598645754.474937,
-            "last_retested_at_iso": "2020-08-28T20:15:54.474937",
+            "included_at_epoch": 1599510037.839773,
+            "included_at_iso": "2020-09-07T20:20:37.839773",
+            "last_retested_at_epoch": 1599510037.839773,
+            "last_retested_at_iso": "2020-09-07T20:20:37.839773",
             "status": "INVALID"
         },
         "_http._tcp.example.com": {
-            "included_at_epoch": 1597090229.779549,
-            "included_at_iso": "2020-08-10T20:10:29.779549",
-            "last_retested_at_epoch": 1598645725.525965,
-            "last_retested_at_iso": "2020-08-28T20:15:25.525965",
+            "included_at_epoch": 1599510009.809223,
+            "included_at_iso": "2020-09-07T20:20:09.809223",
+            "last_retested_at_epoch": 1599510009.809223,
+            "last_retested_at_iso": "2020-09-07T20:20:09.809223",
             "status": "INACTIVE"
         },
         "_http._tcp.example.net": {
-            "included_at_epoch": 1597090229.686809,
-            "included_at_iso": "2020-08-10T20:10:29.686809",
-            "last_retested_at_epoch": 1598645725.486688,
-            "last_retested_at_iso": "2020-08-28T20:15:25.486688",
+            "included_at_epoch": 1599510009.764875,
+            "included_at_iso": "2020-09-07T20:20:09.764875",
+            "last_retested_at_epoch": 1599510009.764875,
+            "last_retested_at_iso": "2020-09-07T20:20:09.764875",
             "status": "INACTIVE"
         },
         "_http._tcp.example.org": {
-            "included_at_epoch": 1597090229.613701,
-            "included_at_iso": "2020-08-10T20:10:29.613701",
-            "last_retested_at_epoch": 1598645725.443406,
-            "last_retested_at_iso": "2020-08-28T20:15:25.443406",
+            "included_at_epoch": 1599510009.708866,
+            "included_at_iso": "2020-09-07T20:20:09.708866",
+            "last_retested_at_epoch": 1599510009.708866,
+            "last_retested_at_iso": "2020-09-07T20:20:09.708866",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.com": {
-            "included_at_epoch": 1597090229.547715,
-            "included_at_iso": "2020-08-10T20:10:29.547715",
-            "last_retested_at_epoch": 1598645725.382789,
-            "last_retested_at_iso": "2020-08-28T20:15:25.382789",
+            "included_at_epoch": 1599510009.654228,
+            "included_at_iso": "2020-09-07T20:20:09.654228",
+            "last_retested_at_epoch": 1599510009.654228,
+            "last_retested_at_iso": "2020-09-07T20:20:09.654228",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.net": {
-            "included_at_epoch": 1597090229.477604,
-            "included_at_iso": "2020-08-10T20:10:29.477604",
-            "last_retested_at_epoch": 1598645725.323412,
-            "last_retested_at_iso": "2020-08-28T20:15:25.323412",
+            "included_at_epoch": 1599510009.614742,
+            "included_at_iso": "2020-09-07T20:20:09.614742",
+            "last_retested_at_epoch": 1599510009.614742,
+            "last_retested_at_iso": "2020-09-07T20:20:09.614742",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.org": {
-            "included_at_epoch": 1597090229.396585,
-            "included_at_iso": "2020-08-10T20:10:29.396585",
-            "last_retested_at_epoch": 1598645725.282918,
-            "last_retested_at_iso": "2020-08-28T20:15:25.282918",
+            "included_at_epoch": 1599510009.56666,
+            "included_at_iso": "2020-09-07T20:20:09.566660",
+            "last_retested_at_epoch": 1599510009.56666,
+            "last_retested_at_iso": "2020-09-07T20:20:09.566660",
             "status": "INACTIVE"
         },
         "failure.is.the.only.option.mypdns.org": {
-            "included_at_epoch": 1597090228.674342,
-            "included_at_iso": "2020-08-10T20:10:28.674342",
-            "last_retested_at_epoch": 1598645724.611469,
-            "last_retested_at_iso": "2020-08-28T20:15:24.611469",
+            "included_at_epoch": 1599510008.898945,
+            "included_at_iso": "2020-09-07T20:20:08.898945",
+            "last_retested_at_epoch": 1599510008.898945,
+            "last_retested_at_iso": "2020-09-07T20:20:08.898945",
             "status": "INACTIVE"
         }
     }
