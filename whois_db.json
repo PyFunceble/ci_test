@@ -57,7 +57,8 @@
     "24log.it": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "24log.ru": {
         "epoch": 1604361600.0,
