@@ -284,7 +284,8 @@
     "adamwarner.co.uk": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
-        "state": "future"
+        "server": "whois.nic.uk",
+        "state": "past"
     },
     "adblockplus.org": {
         "epoch": 1623196800.0,
