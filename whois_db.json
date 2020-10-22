@@ -55,10 +55,10 @@
         "state": "future"
     },
     "24log.it": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "24log.ru": {
         "epoch": 1604361600.0,
@@ -282,10 +282,10 @@
         "state": "future"
     },
     "adamwarner.co.uk": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
         "server": "whois.nic.uk",
-        "state": "past"
+        "state": "future"
     },
     "adblockplus.org": {
         "epoch": 1623196800.0,
