@@ -1,17 +1,17 @@
 {
     "test.list": {
         "1120067982.world": {
-            "included_at_epoch": 1604436776.915778,
-            "included_at_iso": "2020-11-03T20:52:56.915778",
-            "last_retested_at_epoch": 1606684035.662813,
-            "last_retested_at_iso": "2020-11-29T21:07:15.662813",
+            "included_at_epoch": 1606856951.172741,
+            "included_at_iso": "2020-12-01T21:09:11.172741",
+            "last_retested_at_epoch": 1606856951.172741,
+            "last_retested_at_iso": "2020-12-01T21:09:11.172741",
             "status": "INACTIVE"
         },
         "1220057982.world": {
-            "included_at_epoch": 1604436777.126938,
-            "included_at_iso": "2020-11-03T20:52:57.126938",
-            "last_retested_at_epoch": 1606684035.831385,
-            "last_retested_at_iso": "2020-11-29T21:07:15.831385",
+            "included_at_epoch": 1606856951.385437,
+            "included_at_iso": "2020-12-01T21:09:11.385437",
+            "last_retested_at_epoch": 1606856951.385437,
+            "last_retested_at_iso": "2020-12-01T21:09:11.385437",
             "status": "INACTIVE"
         },
         "1800omniture.com": {
@@ -183,10 +183,10 @@
             "status": "ACTIVE"
         },
         "360safe.comð.cn": {
-            "included_at_epoch": 1604436777.218859,
-            "included_at_iso": "2020-11-03T20:52:57.218859",
-            "last_retested_at_epoch": 1606684061.401073,
-            "last_retested_at_iso": "2020-11-29T21:07:41.401073",
+            "included_at_epoch": 1606856951.442391,
+            "included_at_iso": "2020-12-01T21:09:11.442391",
+            "last_retested_at_epoch": 1606856951.442391,
+            "last_retested_at_iso": "2020-12-01T21:09:11.442391",
             "status": "INVALID"
         },
         "360totalsecurity.com": {
@@ -421,45 +421,45 @@
             "status": "ACTIVE"
         },
         "_http._tcp.example.com": {
-            "included_at_epoch": 1604436776.605442,
-            "included_at_iso": "2020-11-03T20:52:56.605442",
-            "last_retested_at_epoch": 1606684034.128011,
-            "last_retested_at_iso": "2020-11-29T21:07:14.128011",
+            "included_at_epoch": 1606856950.935023,
+            "included_at_iso": "2020-12-01T21:09:10.935023",
+            "last_retested_at_epoch": 1606856950.935023,
+            "last_retested_at_iso": "2020-12-01T21:09:10.935023",
             "status": "INACTIVE"
         },
         "_http._tcp.example.net": {
-            "included_at_epoch": 1604436776.576289,
-            "included_at_iso": "2020-11-03T20:52:56.576289",
-            "last_retested_at_epoch": 1606684034.090576,
-            "last_retested_at_iso": "2020-11-29T21:07:14.090576",
+            "included_at_epoch": 1606856950.907211,
+            "included_at_iso": "2020-12-01T21:09:10.907211",
+            "last_retested_at_epoch": 1606856950.907211,
+            "last_retested_at_iso": "2020-12-01T21:09:10.907211",
             "status": "INACTIVE"
         },
         "_http._tcp.example.org": {
-            "included_at_epoch": 1604436776.547017,
-            "included_at_iso": "2020-11-03T20:52:56.547017",
-            "last_retested_at_epoch": 1606684034.026576,
-            "last_retested_at_iso": "2020-11-29T21:07:14.026576",
+            "included_at_epoch": 1606856950.879517,
+            "included_at_iso": "2020-12-01T21:09:10.879517",
+            "last_retested_at_epoch": 1606856950.879517,
+            "last_retested_at_iso": "2020-12-01T21:09:10.879517",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.com": {
-            "included_at_epoch": 1604436776.517875,
-            "included_at_iso": "2020-11-03T20:52:56.517875",
-            "last_retested_at_epoch": 1606684033.987137,
-            "last_retested_at_iso": "2020-11-29T21:07:13.987137",
+            "included_at_epoch": 1606856950.850207,
+            "included_at_iso": "2020-12-01T21:09:10.850207",
+            "last_retested_at_epoch": 1606856950.850207,
+            "last_retested_at_iso": "2020-12-01T21:09:10.850207",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.net": {
-            "included_at_epoch": 1604436776.484487,
-            "included_at_iso": "2020-11-03T20:52:56.484487",
-            "last_retested_at_epoch": 1606684033.940726,
-            "last_retested_at_iso": "2020-11-29T21:07:13.940726",
+            "included_at_epoch": 1606856950.820055,
+            "included_at_iso": "2020-12-01T21:09:10.820055",
+            "last_retested_at_epoch": 1606856950.820055,
+            "last_retested_at_iso": "2020-12-01T21:09:10.820055",
             "status": "INACTIVE"
         },
         "_ldap._tcp.example.org": {
-            "included_at_epoch": 1604436776.444069,
-            "included_at_iso": "2020-11-03T20:52:56.444069",
-            "last_retested_at_epoch": 1606684033.884289,
-            "last_retested_at_iso": "2020-11-29T21:07:13.884289",
+            "included_at_epoch": 1606856950.791295,
+            "included_at_iso": "2020-12-01T21:09:10.791295",
+            "last_retested_at_epoch": 1606856950.791295,
+            "last_retested_at_iso": "2020-12-01T21:09:10.791295",
             "status": "INACTIVE"
         },
         "adamwarner.co.uk": {
@@ -540,10 +540,10 @@
             "status": "ACTIVE"
         },
         "failure.is.the.only.option.mypdns.org": {
-            "included_at_epoch": 1604436776.408322,
-            "included_at_iso": "2020-11-03T20:52:56.408322",
-            "last_retested_at_epoch": 1606684033.307424,
-            "last_retested_at_iso": "2020-11-29T21:07:13.307424",
+            "included_at_epoch": 1606856950.755796,
+            "included_at_iso": "2020-12-01T21:09:10.755796",
+            "last_retested_at_epoch": 1606856950.755796,
+            "last_retested_at_iso": "2020-12-01T21:09:10.755796",
             "status": "INACTIVE"
         },
         "firebog.net": {
