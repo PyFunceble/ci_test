@@ -123,8 +123,9 @@
         "state": "future"
     },
     "4dle.info": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "4dsply.com": {
