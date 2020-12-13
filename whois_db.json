@@ -15,8 +15,9 @@
         "state": "future"
     },
     "1s3h4f7sl.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1ts18.top": {
