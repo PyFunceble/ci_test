@@ -3,6 +3,7 @@
 # Contributors https://pyfunceble.readthedocs.io/en/dev/contributors.html
 funilrys.com
 www.funilrys.com
+pyfunceble.github.io
 mypdns.org
 www.mypdns.org
 sproutsluckycorner.wordpress.com
@@ -51,6 +52,21 @@ _http._tcp.example.org
 _http._tcp.example.net
 _http._tcp.example.com
 
+# INVALID
+invalid.invalid
+
+# Syntax error
+failed/syntax-test
+
+# RFC:6763
+140.82.32.54\032discord.actinium.org
+140.82.32.54\032fastpool.actinium.org
+140.82.32.54\032explorer.actinium.org
+140.82.32.54\032faucet.actinium.org
+140.82.32.54\032ln-explorer.actinium.org
+140.82.32.54\032test-explorer.actinium.org
+140.82.32.54\032transfer.actinium.org
+140.82.32.54\032www.discord.actinium.org
 
 # Controversial
 apple.com
@@ -143,4 +159,3 @@ usaa.com
 use-application-dns.net
 youboranqs01.com
 github.com
-pyfunceble.github.io
