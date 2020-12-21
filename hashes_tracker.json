@@ -1,12 +1,12 @@
 {
     "test.list": {
         "base": {
-            "datetime_iso": "2020-07-12T00:25:42.560750",
-            "hash": "228794659df3dd94d4d1292307803c4da1209bdf6ebd7773e48e6b93"
+            "datetime_iso": "2020-12-21T12:17:36.322295",
+            "hash": "f75b180f80953e7016f3b60abd1f7a07e51cf184423d4106b3bbae43"
         },
         "latest": {
-            "datetime_iso": "2020-12-19T21:21:01.260605",
-            "hash": "228794659df3dd94d4d1292307803c4da1209bdf6ebd7773e48e6b93"
+            "datetime_iso": "2020-12-21T12:17:36.322295",
+            "hash": "f75b180f80953e7016f3b60abd1f7a07e51cf184423d4106b3bbae43"
         },
         "position": 0
     }

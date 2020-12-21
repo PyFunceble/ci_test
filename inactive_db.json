@@ -14,6 +14,62 @@
             "last_retested_at_iso": "2020-12-17T21:20:34.749300",
             "status": "INACTIVE"
         },
+        "140.82.32.54\\032discord.actinium.org": {
+            "included_at_epoch": 1608553056.755017,
+            "included_at_iso": "2020-12-21T12:17:36.755017",
+            "last_retested_at_epoch": 1608553056.755017,
+            "last_retested_at_iso": "2020-12-21T12:17:36.755017",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032explorer.actinium.org": {
+            "included_at_epoch": 1608553057.349072,
+            "included_at_iso": "2020-12-21T12:17:37.349072",
+            "last_retested_at_epoch": 1608553057.349072,
+            "last_retested_at_iso": "2020-12-21T12:17:37.349072",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032fastpool.actinium.org": {
+            "included_at_epoch": 1608553057.019841,
+            "included_at_iso": "2020-12-21T12:17:37.019841",
+            "last_retested_at_epoch": 1608553057.019841,
+            "last_retested_at_iso": "2020-12-21T12:17:37.019841",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032faucet.actinium.org": {
+            "included_at_epoch": 1608553057.663973,
+            "included_at_iso": "2020-12-21T12:17:37.663973",
+            "last_retested_at_epoch": 1608553057.663973,
+            "last_retested_at_iso": "2020-12-21T12:17:37.663973",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032ln-explorer.actinium.org": {
+            "included_at_epoch": 1608553057.930202,
+            "included_at_iso": "2020-12-21T12:17:37.930202",
+            "last_retested_at_epoch": 1608553057.930202,
+            "last_retested_at_iso": "2020-12-21T12:17:37.930202",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032test-explorer.actinium.org": {
+            "included_at_epoch": 1608553058.133351,
+            "included_at_iso": "2020-12-21T12:17:38.133351",
+            "last_retested_at_epoch": 1608553058.133351,
+            "last_retested_at_iso": "2020-12-21T12:17:38.133351",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032transfer.actinium.org": {
+            "included_at_epoch": 1608553058.443249,
+            "included_at_iso": "2020-12-21T12:17:38.443249",
+            "last_retested_at_epoch": 1608553058.443249,
+            "last_retested_at_iso": "2020-12-21T12:17:38.443249",
+            "status": "ACTIVE"
+        },
+        "140.82.32.54\\032www.discord.actinium.org": {
+            "included_at_epoch": 1608553058.724592,
+            "included_at_iso": "2020-12-21T12:17:38.724592",
+            "last_retested_at_epoch": 1608553058.724592,
+            "last_retested_at_iso": "2020-12-21T12:17:38.724592",
+            "status": "ACTIVE"
+        },
         "1800omniture.com": {
             "included_at_epoch": 1608412869.602324,
             "included_at_iso": "2020-12-19T21:21:09.602324",
@@ -539,6 +595,13 @@
             "last_retested_at_iso": "2020-12-19T21:21:07.511581",
             "status": "ACTIVE"
         },
+        "failed/syntax-test": {
+            "included_at_epoch": 1608553056.409605,
+            "included_at_iso": "2020-12-21T12:17:36.409605",
+            "last_retested_at_epoch": 1608553056.409605,
+            "last_retested_at_iso": "2020-12-21T12:17:36.409605",
+            "status": "INVALID"
+        },
         "failure.is.the.only.option.mypdns.org": {
             "included_at_epoch": 1606856950.755796,
             "included_at_iso": "2020-12-01T21:09:10.755796",
@@ -587,6 +650,13 @@
             "last_retested_at_epoch": 1608412955.727319,
             "last_retested_at_iso": "2020-12-19T21:22:35.727319",
             "status": "ACTIVE"
+        },
+        "invalid.invalid": {
+            "included_at_epoch": 1608553056.371266,
+            "included_at_iso": "2020-12-21T12:17:36.371266",
+            "last_retested_at_epoch": 1608553056.371266,
+            "last_retested_at_iso": "2020-12-21T12:17:36.371266",
+            "status": "INVALID"
         },
         "isonomia.com.ar": {
             "included_at_epoch": 1608412957.996836,
