@@ -5,7 +5,7 @@ set -e
 # We are in verbose mode
 set -x
 
-#PyFunceble -d github.com
+PyFunceble -d github.com
 
 PyFunceble -f test.list --ci
 
