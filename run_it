@@ -7,7 +7,7 @@ set -x
 
 PyFunceble -d github.com
 
-PyFunceble -f test.list --travis
+PyFunceble -f test.list --ci
 
 set +e
 set +x

@@ -23,7 +23,7 @@ install:
   - python --version --version
   - pip --version
   - conda --version
-  - pip install git+https://github.com/funilrys/PyFunceble.git@dev
+  - pip install git+https://github.com/funilrys/PyFunceble.git@4.0.0-dev
 
 script:
   - ./run_it
