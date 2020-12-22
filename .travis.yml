@@ -1,6 +1,7 @@
 env:
   global:
     - PYFUNCEBLE_AUTO_CONFIGURATION: YES
+    - DEBUG_PYFUNCEBLE_ON_SCREEN: YES
     - PYTHON_VERSION: 3.8.1
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
