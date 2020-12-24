@@ -8,10 +8,10 @@ cli_testing:
     ci:
         active: false
         branch: master
-        command: ''
+        command: null
         commit_message: PyFunceble - AutoSave
         distribution_branch: master
-        end_command: ''
+        end_command: null
         end_commit_message: PyFunceble - Results
         max_exec_minutes: 15
     complements: false
@@ -29,12 +29,13 @@ cli_testing:
         percentage: true
         quiet: false
         simple: false
-    file_filter: ''
+        status: all
+    file_filter: null
     file_generation:
         analytic: true
         hosts: true
         no_file: false
-        plain: false
+        plain: true
         unified_results: false
     hosts_ip: 0.0.0.0
     inactive_db: true
@@ -60,7 +61,6 @@ http_codes:
         potentially_down:
         - 400
         - 402
-        - 403
         - 404
         - 409
         - 410
@@ -68,8 +68,8 @@ http_codes:
         - 414
         - 415
         - 416
+        - 451
         potentially_up:
-        - 0
         - 300
         - 301
         - 302
@@ -77,6 +77,7 @@ http_codes:
         - 304
         - 305
         - 307
+        - 308
         - 403
         - 405
         - 406
@@ -85,15 +86,29 @@ http_codes:
         - 411
         - 413
         - 417
+        - 418
+        - 421
+        - 422
+        - 423
+        - 424
+        - 426
+        - 428
+        - 429
+        - 431
         - 500
         - 501
         - 502
         - 503
         - 504
         - 505
+        - 506
+        - 507
+        - 508
+        - 510
         up:
         - 100
         - 101
+        - 102
         - 200
         - 201
         - 202
@@ -101,12 +116,14 @@ http_codes:
         - 204
         - 205
         - 206
-    not_found_default: XXX
+        - 207
+        - 208
+        - 226
+        - 429
+    self_managed: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referer: https://pyfunceble.funilrys.com/api/no-referer
-    user_agents: https://raw.githubusercontent.com/PyFunceble/user_agents/master/user_agents.json
-logs: true
 lookup:
     dns: true
     http_status_code: true
@@ -115,13 +132,7 @@ lookup:
     special: true
     timeout: 5
     whois: true
-multiprocess: false
-multiprocess_merging_mode: end
-no_http_codes: false
-shadow_file: false
 share_logs: false
-store_whois_record: false
-unified: false
 user_agent:
     browser: chrome
     custom: null

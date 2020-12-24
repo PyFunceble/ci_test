@@ -1,698 +1,698 @@
 idna_subject,checker_type,destination,source,tested_at
-included_at_epoch,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22T23:46:26.979058
-status,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22T23:46:26.979058
-status,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22T23:46:26.979058
-status,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22T23:46:26.979058
-status,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22T23:46:26.979058
-status,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22T23:46:26.979058
-status,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22T23:46:26.979058
-status,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22T23:46:26.979058
-status,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22T23:46:26.979058
-status,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22T23:46:26.979058
-status,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22T23:46:26.979058
-status,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-01T21:09,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22T23:46:26.979058
-status,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-21T12:17,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22T23:46:26.979058
-status,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22T23:46:26.979058
-status,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22T23:46:26.979058
-status,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22T23:46:26.979058
-status,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22T23:46:26.979058
-status,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22T23:46:26.979058
-status,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22T23:46:26.979058
-status,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22T23:46:26.979058
-status,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22T23:46:26.979058
-status,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22T23:46:26.979058
-status,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22T23:46:26.979058
-status,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22T23:46:26.979058
-status,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22T23:46:26.979058
-status,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22T23:46:26.979058
-status,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:21,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22T23:46:26.979058
-status,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22T23:46:26.979058
-included_at_epoch,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22T23:46:26.979058
-included_at_iso: 2020-12-19T21:22,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22T23:46:26.979058
-last_retested_at_epoch,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22T23:46:26.979058
-last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22T23:46:26.979058
-status,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22T23:46:26.979058
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:55.536685
-_ldap._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.109414
-_ldap._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.156943
-_http._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.229970
-failed/syntax-test,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.271567
-_ldap._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.296107
-invalid.invalid,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.457023
-_http._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.608048
-_http._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:56.898099
-1220057982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:58.428600
-1120067982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:46:58.552834
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-22 23:47:00.532150
+included_at_epoch,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1120067982.world,/home/travis/build/PyFunceble/ci_test/1120067982.world,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1220057982.world,/home/travis/build/PyFunceble/ci_test/1220057982.world,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032discord.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032explorer.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032fastpool.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032fastpool.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032faucet.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032faucet.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032ln-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032ln-explorer.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032test-explorer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032test-explorer.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032transfer.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032transfer.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,140.82.32.54__032www.discord.actinium.org,/home/travis/build/PyFunceble/ci_test/140.82.32.54\\032www.discord.actinium.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1800omniture.com,/home/travis/build/PyFunceble/ci_test/1800omniture.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1bcde.com,/home/travis/build/PyFunceble/ci_test/1bcde.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1ccbt.com,/home/travis/build/PyFunceble/ci_test/1ccbt.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1s3h4f7sl.com,/home/travis/build/PyFunceble/ci_test/1s3h4f7sl.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22 23:46:26.979058
+status,AVAILABILITY,1ts18.top,/home/travis/build/PyFunceble/ci_test/1ts18.top,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,207.net,/home/travis/build/PyFunceble/ci_test/207.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22 23:46:26.979058
+status,AVAILABILITY,22pixx.xyz,/home/travis/build/PyFunceble/ci_test/22pixx.xyz,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,247realmedia.com,/home/travis/build/PyFunceble/ci_test/247realmedia.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,247realmedia.org,/home/travis/build/PyFunceble/ci_test/247realmedia.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,24log.com,/home/travis/build/PyFunceble/ci_test/24log.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22 23:46:26.979058
+status,AVAILABILITY,24log.es,/home/travis/build/PyFunceble/ci_test/24log.es,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22 23:46:26.979058
+status,AVAILABILITY,24log.fr,/home/travis/build/PyFunceble/ci_test/24log.fr,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22 23:46:26.979058
+status,AVAILABILITY,24log.it,/home/travis/build/PyFunceble/ci_test/24log.it,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22 23:46:26.979058
+status,AVAILABILITY,24log.ru,/home/travis/build/PyFunceble/ci_test/24log.ru,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,2o7.net,/home/travis/build/PyFunceble/ci_test/2o7.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,303br.net,/home/travis/build/PyFunceble/ci_test/303br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,304br.net,/home/travis/build/PyFunceble/ci_test/304br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,305br.net,/home/travis/build/PyFunceble/ci_test/305br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,306br.net,/home/travis/build/PyFunceble/ci_test/306br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,307br.net,/home/travis/build/PyFunceble/ci_test/307br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,308br.net,/home/travis/build/PyFunceble/ci_test/308br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,309br.net,/home/travis/build/PyFunceble/ci_test/309br.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,360.com,/home/travis/build/PyFunceble/ci_test/360.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22 23:46:26.979058
+status,AVAILABILITY,360safe.com.cn,/home/travis/build/PyFunceble/ci_test/360safe.com.cn,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22 23:46:26.979058
+status,AVAILABILITY,360safe.com_.cn,/home/travis/build/PyFunceble/ci_test/360safe.comð.cn,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,360totalsecurity.com,/home/travis/build/PyFunceble/ci_test/360totalsecurity.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22 23:46:26.979058
+status,AVAILABILITY,4dle.info,/home/travis/build/PyFunceble/ci_test/4dle.info,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,4dsply.com,/home/travis/build/PyFunceble/ci_test/4dsply.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,4seeresults.com,/home/travis/build/PyFunceble/ci_test/4seeresults.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6000088.com,/home/travis/build/PyFunceble/ci_test/6000088.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6000788.com,/home/travis/build/PyFunceble/ci_test/6000788.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6001888.com,/home/travis/build/PyFunceble/ci_test/6001888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6002888.com,/home/travis/build/PyFunceble/ci_test/6002888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6003388.com,/home/travis/build/PyFunceble/ci_test/6003388.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6003888.com,/home/travis/build/PyFunceble/ci_test/6003888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6004888.com,/home/travis/build/PyFunceble/ci_test/6004888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6005888.com,/home/travis/build/PyFunceble/ci_test/6005888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6006999.com,/home/travis/build/PyFunceble/ci_test/6006999.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6007788.com,/home/travis/build/PyFunceble/ci_test/6007788.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6007799.com,/home/travis/build/PyFunceble/ci_test/6007799.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6007888.com,/home/travis/build/PyFunceble/ci_test/6007888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6008999.com,/home/travis/build/PyFunceble/ci_test/6008999.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6009888.com,/home/travis/build/PyFunceble/ci_test/6009888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,6009988.com,/home/travis/build/PyFunceble/ci_test/6009988.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8000818.com,/home/travis/build/PyFunceble/ci_test/8000818.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8006688.com,/home/travis/build/PyFunceble/ci_test/8006688.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8010888.com,/home/travis/build/PyFunceble/ci_test/8010888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8022888.com,/home/travis/build/PyFunceble/ci_test/8022888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8030888.com,/home/travis/build/PyFunceble/ci_test/8030888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8050888.com,/home/travis/build/PyFunceble/ci_test/8050888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8067888.com,/home/travis/build/PyFunceble/ci_test/8067888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8070888.com,/home/travis/build/PyFunceble/ci_test/8070888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8082888.com,/home/travis/build/PyFunceble/ci_test/8082888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8083888.com,/home/travis/build/PyFunceble/ci_test/8083888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8087888.com,/home/travis/build/PyFunceble/ci_test/8087888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,809002.com,/home/travis/build/PyFunceble/ci_test/809002.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8096888.com,/home/travis/build/PyFunceble/ci_test/8096888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,8099888.com,/home/travis/build/PyFunceble/ci_test/8099888.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,_http._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,_http._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,_http._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_http._tcp.example.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,_ldap._tcp.example.com,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,_ldap._tcp.example.net,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,_ldap._tcp.example.org,/home/travis/build/PyFunceble/ci_test/_ldap._tcp.example.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22 23:46:26.979058
+status,AVAILABILITY,adamwarner.co.uk,/home/travis/build/PyFunceble/ci_test/adamwarner.co.uk,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,adblockplus.org,/home/travis/build/PyFunceble/ci_test/adblockplus.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,apple.com,/home/travis/build/PyFunceble/ci_test/apple.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,asciinema.org,/home/travis/build/PyFunceble/ci_test/asciinema.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,codecalamity.com,/home/travis/build/PyFunceble/ci_test/codecalamity.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,disc_rd.com,/home/travis/build/PyFunceble/ci_test/discörd.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,dis_ordapp.com,/home/travis/build/PyFunceble/ci_test/disçordapp.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,dnspython.org,/home/travis/build/PyFunceble/ci_test/dnspython.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,example.com,/home/travis/build/PyFunceble/ci_test/example.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,example.net,/home/travis/build/PyFunceble/ci_test/example.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,example.org,/home/travis/build/PyFunceble/ci_test/example.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22 23:46:26.979058
+status,AVAILABILITY,syntax-test,/home/travis/build/PyFunceble/ci_test/failed/syntax-test,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,failure.is.the.only.option.mypdns.org,/home/travis/build/PyFunceble/ci_test/failure.is.the.only.option.mypdns.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,firebog.net,/home/travis/build/PyFunceble/ci_test/firebog.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,funilrys.com,/home/travis/build/PyFunceble/ci_test/funilrys.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,github.com,/home/travis/build/PyFunceble/ci_test/github.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,goetime.com,/home/travis/build/PyFunceble/ci_test/goetime.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22 23:46:26.979058
+status,AVAILABILITY,google.de,/home/travis/build/PyFunceble/ci_test/google.de,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,hotels.com,/home/travis/build/PyFunceble/ci_test/hotels.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22 23:46:26.979058
+status,AVAILABILITY,invalid.invalid,/home/travis/build/PyFunceble/ci_test/invalid.invalid,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22 23:46:26.979058
+status,AVAILABILITY,isonomia.com.ar,/home/travis/build/PyFunceble/ci_test/isonomia.com.ar,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,matomo.org,/home/travis/build/PyFunceble/ci_test/matomo.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22 23:46:26.979058
+status,AVAILABILITY,me.uk,/home/travis/build/PyFunceble/ci_test/me.uk,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22 23:46:26.979058
+status,AVAILABILITY,meetrics.ch,/home/travis/build/PyFunceble/ci_test/meetrics.ch,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22 23:46:26.979058
+status,AVAILABILITY,meetrics.de,/home/travis/build/PyFunceble/ci_test/meetrics.de,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,meetrics.org,/home/travis/build/PyFunceble/ci_test/meetrics.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22 23:46:26.979058
+status,AVAILABILITY,microsoft.de,/home/travis/build/PyFunceble/ci_test/microsoft.de,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,mouseflow.com,/home/travis/build/PyFunceble/ci_test/mouseflow.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,mparticle.com,/home/travis/build/PyFunceble/ci_test/mparticle.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,mypdns.org,/home/travis/build/PyFunceble/ci_test/mypdns.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,opinionstage.com,/home/travis/build/PyFunceble/ci_test/opinionstage.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,pi-hole.net,/home/travis/build/PyFunceble/ci_test/pi-hole.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,play-bow.net,/home/travis/build/PyFunceble/ci_test/play-bow.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22 23:46:26.979058
+status,AVAILABILITY,presage.io,/home/travis/build/PyFunceble/ci_test/presage.io,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,privy.com,/home/travis/build/PyFunceble/ci_test/privy.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,publicsuffix.org,/home/travis/build/PyFunceble/ci_test/publicsuffix.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22 23:46:26.979058
+status,AVAILABILITY,pyfunceble.github.io,/home/travis/build/PyFunceble/ci_test/pyfunceble.github.io,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,recaptcha.net,/home/travis/build/PyFunceble/ci_test/recaptcha.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22 23:46:26.979058
+status,AVAILABILITY,rettighedsalliancen.dk,/home/travis/build/PyFunceble/ci_test/rettighedsalliancen.dk,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,saurabh-kumar.com,/home/travis/build/PyFunceble/ci_test/saurabh-kumar.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22 23:46:26.979058
+status,AVAILABILITY,scripttiger.github.io,/home/travis/build/PyFunceble/ci_test/scripttiger.github.io,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,sedoparking.com,/home/travis/build/PyFunceble/ci_test/sedoparking.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,sift.com,/home/travis/build/PyFunceble/ci_test/sift.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,siftscience.com,/home/travis/build/PyFunceble/ci_test/siftscience.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22 23:46:26.979058
+status,AVAILABILITY,speedmann.de,/home/travis/build/PyFunceble/ci_test/speedmann.de,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,sproutsluckycorner.wordpress.com,/home/travis/build/PyFunceble/ci_test/sproutsluckycorner.wordpress.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,tartley.com,/home/travis/build/PyFunceble/ci_test/tartley.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22 23:46:26.979058
+status,AVAILABILITY,tawk.to,/home/travis/build/PyFunceble/ci_test/tawk.to,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,terminalizer.com,/home/travis/build/PyFunceble/ci_test/terminalizer.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,terraclicks.com,/home/travis/build/PyFunceble/ci_test/terraclicks.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22 23:46:26.979058
+status,AVAILABILITY,ubuntu101.co.za,/home/travis/build/PyFunceble/ci_test/ubuntu101.co.za,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,usaa.com,/home/travis/build/PyFunceble/ci_test/usaa.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22 23:46:26.979058
+status,AVAILABILITY,use-application-dns.net,/home/travis/build/PyFunceble/ci_test/use-application-dns.net,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,www.dnspython.org,/home/travis/build/PyFunceble/ci_test/www.dnspython.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,www.funilrys.com,/home/travis/build/PyFunceble/ci_test/www.funilrys.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,www.icann.org,/home/travis/build/PyFunceble/ci_test/www.icann.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,www.kennethreitz.org,/home/travis/build/PyFunceble/ci_test/www.kennethreitz.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,www.mypdns.org,/home/travis/build/PyFunceble/ci_test/www.mypdns.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,www.yworks.com,/home/travis/build/PyFunceble/ci_test/www.yworks.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,xn--discrd-zxa.com,/home/travis/build/PyFunceble/ci_test/xn--discrd-zxa.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,xn--disordapp-s3a.com,/home/travis/build/PyFunceble/ci_test/xn--disordapp-s3a.com,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22 23:46:26.979058
+status,AVAILABILITY,yaml.org,/home/travis/build/PyFunceble/ci_test/yaml.org,2020-12-22 23:46:26.979058
+included_at_epoch,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
+last_retested_at_epoch,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
+status,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
+failed/syntax-test,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:52.731591
+invalid.invalid,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:53.014007
+_ldap._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:53.835902
+_ldap._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:53.837019
+_http._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:54.028745
+_ldap._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:54.105142
+_http._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:54.360997
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:54.913727
+_http._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:55.165888
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:55.243499
+1220057982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:55.406295
+1120067982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-24 21:23:55.597055
