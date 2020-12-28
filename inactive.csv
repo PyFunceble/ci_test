@@ -684,15 +684,25 @@ included_at_iso: 2020-12-19T21:22,AVAILABILITY,youboranqs01.com,/home/travis/bui
 last_retested_at_epoch,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
 last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
 status,AVAILABILITY,youboranqs01.com,/home/travis/build/PyFunceble/ci_test/youboranqs01.com,2020-12-22 23:46:26.979058
-failed/syntax-test,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:57.163533
-invalid.invalid,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:57.478022
-_ldap._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:58.516680
-_ldap._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:58.546591
-_ldap._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:58.665790
-_http._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:58.688060
-_http._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:58.728087
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:59.689776
-_http._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:59.907741
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:24:59.978273
-1120067982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:25:00.286813
-1220057982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-26 21:25:00.305968
+included_at_iso: 2020-12-01T21:09,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:16.314355
+included_at_iso: 2020-12-21T12:17,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:18.422498
+last_retested_at_iso: 2020-12-22T21:23,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:20.097607
+status,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:20.715129
+last_retested_at_epoch,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:24.547385
+included_at_epoch,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:26.926207
+included_at_iso: 2020-12-19T21:21,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:27.118534
+last_retested_at_iso: 2020-12-22T21:22,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:27.927396
+last_retested_at_iso: 2020-12-22T21:24,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:28.036050
+included_at_iso: 2020-12-19T21:22,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:28.325040
+failed/syntax-test,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:28.387599
+invalid.invalid,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:28.651655
+_ldap._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:30.194513
+_ldap._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:30.252267
+_ldap._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:30.496674
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:32.352226
+_http._tcp.example.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:32.522375
+_http._tcp.example.net,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:32.536692
+_http._tcp.example.com,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:34.876351
+1120067982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:35.208547
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:35.786783
+1220057982.world,AVAILABILITY,test.list,/home/travis/build/PyFunceble/ci_test/test.list,2020-12-28 21:26:37.456321
