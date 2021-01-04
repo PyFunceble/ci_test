@@ -46,7 +46,7 @@ jobs:
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
-      - name: Run PyFunceble against a single domain
+      - name: Run PyFunceble
         run: |
           PyFunceble -a -d github.com
         env:
@@ -83,7 +83,7 @@ jobs:
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
-      - name: Run PyFunceble against a single domain
+      - name: Run PyFunceble
         run: |
           PyFunceble -a --ci -f test.list
         env:
