@@ -11,8 +11,8 @@ on:
 
 env:
   PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
-  GIT_NAME: PyFunceble
-  GIT_EMAIL: pyfunceblebot@outlook.com
+  GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
+  GIT_EMAIL: "${{ secrets.GIT_BOT_EMAIL }}"
 
 jobs:
   single:
