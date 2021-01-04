@@ -13,7 +13,6 @@ env:
   PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
   GIT_NAME: PyFunceble
   GIT_EMAIL: pyfunceblebot@funilrys.com
-  PYFUNCEBLE_CONFIG_DIR: "${{ github.GITHUB_WORKSPACE }}/.pyfunceble"
 
 jobs:
   single:
@@ -27,6 +26,9 @@ jobs:
           - "3.9.1"
         os:
           - ubuntu-latest
+
+    env:
+      PYFUNCEBLE_CONFIG_DIR: "${{ GITHUB_WORKSPACE }}/.pyfunceble"
 
     steps:
       - uses: actions/checkout@v2
@@ -60,6 +62,9 @@ jobs:
           - "3.9.1"
         os:
           - ubuntu-latest
+
+    env:
+      PYFUNCEBLE_CONFIG_DIR: "${{ GITHUB_WORKSPACE }}/.pyfunceble"
 
     steps:
       - uses: actions/checkout@v2
