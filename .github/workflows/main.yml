@@ -27,9 +27,6 @@ jobs:
         os:
           - ubuntu-latest
 
-    env:
-      PYFUNCEBLE_CONFIG_DIR: "$GITHUB_WORKSPACE/.pyfunceble"
-
     steps:
       - uses: actions/checkout@v2
         name: Clone repository
@@ -46,10 +43,14 @@ jobs:
       - name: Get PyFunceble version
         run: |
           PyFunceble --version
+        env:
+          PYFUNCEBLE_CONFIG_DIR: "$GITHUB_WORKSPACE/.pyfunceble"
 
       - name: Run PyFunceble against a single domain
         run: |
           PyFunceble -a -d github.com
+        env:
+          PYFUNCEBLE_CONFIG_DIR: "$GITHUB_WORKSPACE/.pyfunceble"
 
   file_and_push:
     name: Run PyFunceble against a file and push result to repository
@@ -63,9 +64,6 @@ jobs:
         os:
           - ubuntu-latest
 
-    env:
-      PYFUNCEBLE_CONFIG_DIR: "$GITHUB_WORKSPACE/.pyfunceble"
-
     steps:
       - uses: actions/checkout@v2
         name: Clone repository
@@ -82,7 +80,11 @@ jobs:
       - name: Get PyFunceble version
         run: |
           PyFunceble --version
+        env:
+          PYFUNCEBLE_CONFIG_DIR: "$GITHUB_WORKSPACE/.pyfunceble"
 
       - name: Run PyFunceble against a single domain
         run: |
           PyFunceble -a --ci -f test.list
+        env:
+          PYFUNCEBLE_CONFIG_DIR: "$GITHUB_WORKSPACE/.pyfunceble"
