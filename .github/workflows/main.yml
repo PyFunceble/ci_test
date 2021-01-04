@@ -44,13 +44,13 @@ jobs:
         run: |
           PyFunceble --version
         env:
-          PYFUNCEBLE_CONFIG_DIR: "${{ github.GITHUB_WORKSPACE }}/.pyfunceble"
+          PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
       - name: Run PyFunceble against a single domain
         run: |
           PyFunceble -a -d github.com
         env:
-          PYFUNCEBLE_CONFIG_DIR: "${{ github.GITHUB_WORKSPACE }}/.pyfunceble"
+          PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
   file_and_push:
     name: Run PyFunceble against a file and push result to repository
@@ -81,10 +81,10 @@ jobs:
         run: |
           PyFunceble --version
         env:
-          PYFUNCEBLE_CONFIG_DIR: "${{ github.GITHUB_WORKSPACE }}/.pyfunceble"
+          PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
       - name: Run PyFunceble against a single domain
         run: |
           PyFunceble -a --ci -f test.list
         env:
-          PYFUNCEBLE_CONFIG_DIR: "${{ github.GITHUB_WORKSPACE }}/.pyfunceble"
+          PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
