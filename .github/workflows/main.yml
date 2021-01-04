@@ -12,7 +12,7 @@ on:
 env:
   PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
   GIT_NAME: PyFunceble
-  GIT_EMAIL: pyfunceblebot@funilrys.com
+  GIT_EMAIL: pyfunceblebot@outlook.com
 
 jobs:
   single:
