@@ -85,6 +85,6 @@ jobs:
 
       - name: Run PyFunceble
         run: |
-          PyFunceble -a --ci -f test.list
+          PyFunceble -a --cooldown-time 5 --ci-max-minutes 1 --max --ci -f test.list
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
