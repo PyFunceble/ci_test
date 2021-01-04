@@ -88,3 +88,4 @@ jobs:
           PyFunceble -a --cooldown-time 5 --ci-max-minutes 1 --ci --logging-level debug -f test.list
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
+          GITHUB_TOKEN: "${{ secrets.BOT_REPO_PAT }}"
