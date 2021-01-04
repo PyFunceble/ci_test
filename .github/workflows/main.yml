@@ -52,7 +52,7 @@ jobs:
           PyFunceble -a -d github.com
 
   file_and_push:
-    name: Run PyFunceble against PyFunceble and push result to repository
+    name: Run PyFunceble against a file and push result to repository
     runs-on: "${{ matrix.os }}"
 
     strategy:
