@@ -48,7 +48,7 @@ jobs:
 
       - name: Run PyFunceble
         run: |
-          PyFunceble -a -d --logging-level critical github.com
+          PyFunceble -a --logging-level critical -d github.com
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
