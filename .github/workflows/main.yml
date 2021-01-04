@@ -48,7 +48,7 @@ jobs:
 
       - name: Run PyFunceble
         run: |
-          PyFunceble -a -d github.com
+          PyFunceble -a -d --logging-level critical github.com
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
 
@@ -85,6 +85,6 @@ jobs:
 
       - name: Run PyFunceble
         run: |
-          PyFunceble -a --cooldown-time 5 --ci-max-minutes 1 --ci -f test.list
+          PyFunceble -a --cooldown-time 5 --ci-max-minutes 1 --ci --logging-level critical -f test.list
         env:
           PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
