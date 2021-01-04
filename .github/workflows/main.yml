@@ -28,7 +28,7 @@ jobs:
           - ubuntu-latest
 
     env:
-      PYFUNCEBLE_CONFIG_DIR: "${{ GITHUB_WORKSPACE }}/.pyfunceble"
+      PYFUNCEBLE_CONFIG_DIR: "${{ env.GITHUB_WORKSPACE }}/.pyfunceble"
 
     steps:
       - uses: actions/checkout@v2
@@ -64,7 +64,7 @@ jobs:
           - ubuntu-latest
 
     env:
-      PYFUNCEBLE_CONFIG_DIR: "${{ GITHUB_WORKSPACE }}/.pyfunceble"
+      PYFUNCEBLE_CONFIG_DIR: "${{ env.GITHUB_WORKSPACE }}/.pyfunceble"
 
     steps:
       - uses: actions/checkout@v2
