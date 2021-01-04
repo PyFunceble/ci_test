@@ -1,0 +1,83 @@
+name: PyFunceble CI tests
+on:
+  push:
+    branches:
+      - "*"
+  pull_request:
+    branches:
+      - "*"
+  schedule:
+    - cron: "0 * * * *"
+
+env:
+  PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
+  GIT_NAME: Travis-CI
+  GIT_EMAIL: dead-hosts@funilrys.com
+  PYFUNCEBLE_CONFIG_DIR: "${{ GITHUB_WORKSPACE }}/.pyfunceble"
+
+jobs:
+  single:
+    name: Run PyFunceble with a single domain
+    runs-on: "${{ matrix.os }}"
+
+    strategy:
+      fail-fast: false
+      matrix:
+        python_version:
+          - "3.9.1"
+        os:
+          - ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        name: Clone repository
+
+      - name: Set up Python ${{ matrix.python_version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python_version }}
+
+      - name: Install dependencies
+        run: |
+          pip install git+https://github.com/funilrys/PyFunceble.git@4.0.0-dev
+
+      - name: Get PyFunceble version
+        run: |
+          PyFunceble --version
+
+      - name: Run PyFunceble against a single domain
+        run: |
+          PyFunceble -a -d github.com
+
+  file_and_push:
+    name: Run PyFunceble against PyFunceble and push result to repository
+    runs-on: "${{ matrix.os }}"
+
+    strategy:
+      fail-fast: false
+      matrix:
+        python_version:
+          - "3.9.1"
+        os:
+          - ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        name: Clone repository
+
+      - name: Set up Python ${{ matrix.python_version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python_version }}
+
+      - name: Install dependencies
+        run: |
+          pip install git+https://github.com/funilrys/PyFunceble.git@4.0.0-dev
+
+      - name: Get PyFunceble version
+        run: |
+          PyFunceble --version
+
+      - name: Run PyFunceble against a single domain
+        run: |
+          PyFunceble -a --ci -f test.list
