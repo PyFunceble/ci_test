@@ -11,7 +11,7 @@ env:
   GITHUB_TOKEN: "${{ secrets.BOT_REPO_PAT }}"
 
 jobs:
-  single:
+  scheduler:
     name: Trigger action
     runs-on: "${{ matrix.os }}"
 
