@@ -42,6 +42,7 @@ cli_testing:
     local_network: false
     max_workers: null
     mining: false
+    preload_file: false
     sorting_mode:
         hierarchical: false
         standard: true
@@ -70,7 +71,6 @@ http_codes:
         - 416
         - 451
         potentially_up:
-        - 0
         - 300
         - 301
         - 302
