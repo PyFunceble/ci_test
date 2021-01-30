@@ -1,13 +1,13 @@
 idna_subject,checker_type,destination,source,tested_at
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:22.961179
-_ldap._tcp.example.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:24.290675
-_ldap._tcp.example.net,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:25.700864
-_ldap._tcp.example.com,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:26.998205
-_http._tcp.example.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:29.547090
-_http._tcp.example.net,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:32.125102
-_http._tcp.example.com,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:34.653900
-invalid.invalid,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:35.091637
-failed/syntax-test,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:35.136968
-1120067982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:38.000484
-1220057982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:39.371897
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-29 00:20:41.518413
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:11.156976
+_ldap._tcp.example.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:13.688117
+_ldap._tcp.example.net,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:16.277713
+_ldap._tcp.example.com,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:18.810236
+_http._tcp.example.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:21.474387
+_http._tcp.example.net,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:22.820851
+_http._tcp.example.com,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:24.132308
+invalid.invalid,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:24.637642
+failed/syntax-test,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:24.723667
+1120067982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:26.407931
+1220057982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:29.382385
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-01-30 04:12:31.802922
