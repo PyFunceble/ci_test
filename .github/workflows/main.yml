@@ -40,7 +40,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --pre PyFunceble-dev 
+          pip install git+https://github.com/funilrys/PyFunceble.git@dev
 
       - name: Get PyFunceble version
         run: |
@@ -75,7 +75,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --pre PyFunceble-dev 
+          pip install git+https://github.com/funilrys/PyFunceble.git@dev
 
       - name: Get PyFunceble version
         run: |
