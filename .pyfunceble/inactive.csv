@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at
-1120067982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-12 04:09:05.529963
-1220057982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-12 04:09:08.485876
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-12 04:09:11.431319
 failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 04:09:24.275544
 _ldap._tcp.example.org,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 04:09:26.823367
 _ldap._tcp.example.net,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 04:09:29.422186
@@ -11,3 +8,6 @@ _http._tcp.example.net,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/
 _http._tcp.example.com,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 04:09:39.662364
 invalid.invalid,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 04:09:40.117696
 failed/syntax-test,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 04:09:40.160916
+1120067982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 08:08:02.868431
+1220057982.world,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 08:08:04.384191
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,/home/runner/work/ci_test/ci_test/test.list,2021-02-13 08:08:06.511662
