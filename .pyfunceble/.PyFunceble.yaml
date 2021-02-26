@@ -55,8 +55,10 @@ debug:
     active: false
     level: info
 dns:
+    follow_server_order: true
     protocol: UDP
     server: null
+    trust_server: false
 http_codes:
     list:
         potentially_down:
