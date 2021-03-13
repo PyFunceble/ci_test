@@ -426,6 +426,7 @@
         "co.bn"
     ],
     "bo": [
+        "wiki.bo",
         "com.bo",
         "edu.bo",
         "gob.bo",
@@ -465,8 +466,7 @@
         "salud.bo",
         "tecnologia.bo",
         "tksat.bo",
-        "transporte.bo",
-        "wiki.bo"
+        "transporte.bo"
     ],
     "br": [
         "9guacu.br",
