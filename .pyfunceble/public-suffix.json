@@ -426,7 +426,6 @@
         "co.bn"
     ],
     "bo": [
-        "wiki.bo",
         "com.bo",
         "edu.bo",
         "gob.bo",
@@ -466,7 +465,8 @@
         "salud.bo",
         "tecnologia.bo",
         "tksat.bo",
-        "transporte.bo"
+        "transporte.bo",
+        "wiki.bo"
     ],
     "br": [
         "9guacu.br",
@@ -1345,6 +1345,8 @@
         "platter-app.com",
         "pleskns.com",
         "xen.prgmr.com",
+        "pythonanywhere.com",
+        "eu.pythonanywhere.com",
         "qualifioapp.com",
         "qbuser.com",
         "qa2.com",
