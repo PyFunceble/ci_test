@@ -3225,7 +3225,7 @@
         "niikappu.hokkaido.jp",
         "niki.hokkaido.jp",
         "nishiokoppe.hokkaido.jp",
-        "noboribetsu.hokkaido.jp",
+        "tatsuno.hyogo.jp",
         "numata.hokkaido.jp",
         "obihiro.hokkaido.jp",
         "obira.hokkaido.jp",
@@ -3324,7 +3324,6 @@
         "takasago.hyogo.jp",
         "takino.hyogo.jp",
         "tamba.hyogo.jp",
-        "tatsuno.hyogo.jp",
         "toyooka.hyogo.jp",
         "yabu.hyogo.jp",
         "yashiro.hyogo.jp",
@@ -4824,12 +4823,12 @@
         "blogspot.com.mt"
     ],
     "mu": [
-        "co.mu",
         "com.mu",
         "net.mu",
         "org.mu",
         "gov.mu",
         "ac.mu",
+        "co.mu",
         "or.mu"
     ],
     "museum": [
