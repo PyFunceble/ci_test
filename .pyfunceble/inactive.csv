@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2021-04-13 08:03:28.572120
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2021-04-13 08:03:36.504159
 _ldap._tcp.example.org,AVAILABILITY,test.list,2021-04-13 12:03:48.142054
 _ldap._tcp.example.net,AVAILABILITY,test.list,2021-04-13 12:03:49.994427
 _ldap._tcp.example.com,AVAILABILITY,test.list,2021-04-13 16:05:07.201332
@@ -11,3 +9,5 @@ invalid.invalid,AVAILABILITY,test.list,2021-04-13 16:05:12.192113
 failed/syntax-test,AVAILABILITY,test.list,2021-04-13 16:05:12.198307
 1120067982.world,AVAILABILITY,test.list,2021-04-13 16:05:14.275974
 1220057982.world,AVAILABILITY,test.list,2021-04-13 16:05:16.224808
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2021-04-14 12:03:30.279839
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2021-04-14 12:03:37.966379
