@@ -373,6 +373,7 @@
         "p.bg",
         "q.bg",
         "r.bg",
+        "s.bg",
         "t.bg",
         "u.bg",
         "v.bg",
@@ -386,8 +387,7 @@
         "edu.bh",
         "gov.bh",
         "net.bh",
-        "org.bh",
-        "s.bg"
+        "org.bh"
     ],
     "bi": [
         "co.bi",
@@ -2685,7 +2685,6 @@
         "xn--cesenaforl-i8a.it",
         "xn--forl-cesena-fcb.it",
         "xn--forlcesena-c8a.it",
-        "xn--io0a7i.cn",
         "xn--sdtirol-n2a.it",
         "xn--trentin-sd-tirol-rzb.it",
         "xn--trentin-sdtirol-7vb.it",
