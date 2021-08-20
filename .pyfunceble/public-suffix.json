@@ -164,6 +164,8 @@
     "app": [
         "a.run.app",
         "bookonline.app",
+        "clerk.app",
+        "clerkstage.app",
         "developer.app",
         "edgecompute.app",
         "fireweb.app",
@@ -1838,7 +1840,8 @@
         "gov.gi",
         "ltd.gi",
         "mod.gi",
-        "org.gi"
+        "org.gi",
+        "org.hk"
     ],
     "gl": [
         "biz.gl",
