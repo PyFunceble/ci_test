@@ -1,13 +1,13 @@
 idna_subject,checker_type,destination,tested_at
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2021-10-14 04:18:39.698832
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2021-10-14 04:18:42.876204
-_ldap._tcp.example.org,AVAILABILITY,test.list,2021-10-14 04:18:43.098677
-_ldap._tcp.example.net,AVAILABILITY,test.list,2021-10-14 04:18:43.445016
-_ldap._tcp.example.com,AVAILABILITY,test.list,2021-10-14 04:18:43.668590
-_http._tcp.example.org,AVAILABILITY,test.list,2021-10-14 04:18:43.822148
-_http._tcp.example.net,AVAILABILITY,test.list,2021-10-14 04:18:43.958928
-_http._tcp.example.com,AVAILABILITY,test.list,2021-10-14 04:18:44.170781
-invalid.invalid,AVAILABILITY,test.list,2021-10-14 04:18:44.259488
-failed/syntax-test,AVAILABILITY,test.list,2021-10-14 04:18:44.269193
-1120067982.world,AVAILABILITY,test.list,2021-10-14 04:18:44.883128
-1220057982.world,AVAILABILITY,test.list,2021-10-14 04:18:45.324753
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2021-10-15 08:18:40.006645
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2021-10-15 08:18:43.866761
+_ldap._tcp.example.org,AVAILABILITY,test.list,2021-10-15 08:18:44.470375
+_ldap._tcp.example.net,AVAILABILITY,test.list,2021-10-15 08:18:45.018398
+_ldap._tcp.example.com,AVAILABILITY,test.list,2021-10-15 08:18:45.323781
+_http._tcp.example.org,AVAILABILITY,test.list,2021-10-15 08:18:45.625775
+_http._tcp.example.net,AVAILABILITY,test.list,2021-10-15 08:18:45.993868
+_http._tcp.example.com,AVAILABILITY,test.list,2021-10-15 08:18:46.244696
+invalid.invalid,AVAILABILITY,test.list,2021-10-15 08:18:46.288541
+failed/syntax-test,AVAILABILITY,test.list,2021-10-15 08:18:46.299212
+1120067982.world,AVAILABILITY,test.list,2021-10-15 08:18:46.808909
+1220057982.world,AVAILABILITY,test.list,2021-10-15 08:18:47.048272
