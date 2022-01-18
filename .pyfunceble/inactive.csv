@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-discord.actinium.org,AVAILABILITY,test.list,2022-01-17 04:13:28.002964
-fastpool.actinium.org,AVAILABILITY,test.list,2022-01-17 04:14:10.107864
-explorer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:14:55.171691
-faucet.actinium.org,AVAILABILITY,test.list,2022-01-17 04:15:37.546053
-ln-explorer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:16:12.596720
-test-explorer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:16:47.672440
-transfer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:17:32.799345
-www.discord.actinium.org,AVAILABILITY,test.list,2022-01-17 04:18:14.659692
 360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2022-01-18 00:36:46.405006
 failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2022-01-18 00:36:49.956512
 _ldap._tcp.example.org,AVAILABILITY,test.list,2022-01-18 00:36:50.361931
