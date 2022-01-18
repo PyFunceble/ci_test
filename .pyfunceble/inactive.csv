@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2022-01-16 20:12:35.299123
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2022-01-16 20:12:39.498679
-_ldap._tcp.example.org,AVAILABILITY,test.list,2022-01-16 20:12:39.848922
-_ldap._tcp.example.net,AVAILABILITY,test.list,2022-01-16 20:12:40.386441
-_ldap._tcp.example.com,AVAILABILITY,test.list,2022-01-16 20:12:40.705974
-_http._tcp.example.org,AVAILABILITY,test.list,2022-01-16 20:12:41.073548
-_http._tcp.example.net,AVAILABILITY,test.list,2022-01-16 20:12:41.406859
-_http._tcp.example.com,AVAILABILITY,test.list,2022-01-16 20:12:41.689327
-invalid.invalid,AVAILABILITY,test.list,2022-01-16 20:12:41.705584
-failed/syntax-test,AVAILABILITY,test.list,2022-01-16 20:12:41.791556
-1120067982.world,AVAILABILITY,test.list,2022-01-16 20:12:42.482681
-1220057982.world,AVAILABILITY,test.list,2022-01-16 20:12:43.124961
 discord.actinium.org,AVAILABILITY,test.list,2022-01-17 04:13:28.002964
 fastpool.actinium.org,AVAILABILITY,test.list,2022-01-17 04:14:10.107864
 explorer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:14:55.171691
@@ -19,3 +7,15 @@ ln-explorer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:16:12.596720
 test-explorer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:16:47.672440
 transfer.actinium.org,AVAILABILITY,test.list,2022-01-17 04:17:32.799345
 www.discord.actinium.org,AVAILABILITY,test.list,2022-01-17 04:18:14.659692
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2022-01-18 00:36:46.405006
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2022-01-18 00:36:49.956512
+_ldap._tcp.example.org,AVAILABILITY,test.list,2022-01-18 00:36:50.361931
+_ldap._tcp.example.net,AVAILABILITY,test.list,2022-01-18 00:36:50.848048
+_ldap._tcp.example.com,AVAILABILITY,test.list,2022-01-18 00:36:51.188441
+_http._tcp.example.org,AVAILABILITY,test.list,2022-01-18 00:36:51.426513
+_http._tcp.example.net,AVAILABILITY,test.list,2022-01-18 00:36:51.714905
+_http._tcp.example.com,AVAILABILITY,test.list,2022-01-18 00:36:51.980741
+invalid.invalid,AVAILABILITY,test.list,2022-01-18 00:36:51.999911
+failed/syntax-test,AVAILABILITY,test.list,2022-01-18 00:36:52.270971
+1120067982.world,AVAILABILITY,test.list,2022-01-18 00:36:52.653624
+1220057982.world,AVAILABILITY,test.list,2022-01-18 00:36:52.796722
