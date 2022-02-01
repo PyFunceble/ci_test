@@ -789,6 +789,7 @@
         "ed.ci",
         "edu.ci",
         "fin.ci",
+        "gitlab.io",
         "go.ci",
         "gouv.ci",
         "int.ci",
@@ -2196,7 +2197,6 @@
         "g.vbrplsbx.io",
         "ghost.io",
         "github.io",
-        "gitlab.io",
         "hasura-app.io",
         "hostyhosting.io",
         "hzc.io",
@@ -7469,8 +7469,7 @@
         "shop.ro",
         "store.ro",
         "tm.ro",
-        "www.ro",
-        "xn--rhkkervju-01af.no"
+        "www.ro"
     ],
     "rocks": [
         "lima-city.rocks",
