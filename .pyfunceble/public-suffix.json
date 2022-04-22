@@ -377,7 +377,6 @@
         "m.bg",
         "n.bg",
         "o.bg",
-        "org.bm",
         "p.bg",
         "q.bg",
         "r.bg",
@@ -712,6 +711,7 @@
         "blogspot.com.by",
         "com.by",
         "gov.by",
+        "mediatech.by",
         "mil.by",
         "mycloud.by",
         "of.by"
@@ -840,7 +840,6 @@
         "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
-        "mediatech.by",
         "nl-ams-1.baremetal.scw.cloud",
         "nodes.k8s.fr-par.scw.cloud",
         "nodes.k8s.nl-ams.scw.cloud",
