@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-microsoft.de,AVAILABILITY,test.list,2022-05-30 00:57:40.703791
 failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2022-05-30 04:34:02.881775
 _ldap._tcp.example.org,AVAILABILITY,test.list,2022-05-30 04:34:03.875215
 _ldap._tcp.example.net,AVAILABILITY,test.list,2022-05-30 04:34:04.488537
