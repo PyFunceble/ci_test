@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-_ldap._tcp.example.org,AVAILABILITY,test.list,2022-07-22 04:39:40.931517
-_ldap._tcp.example.net,AVAILABILITY,test.list,2022-07-22 04:39:41.351203
-_ldap._tcp.example.com,AVAILABILITY,test.list,2022-07-22 04:39:41.461144
-_http._tcp.example.org,AVAILABILITY,test.list,2022-07-22 04:39:41.764219
-_http._tcp.example.net,AVAILABILITY,test.list,2022-07-22 04:39:41.962166
-_http._tcp.example.com,AVAILABILITY,test.list,2022-07-22 04:39:42.070366
-invalid.invalid,AVAILABILITY,test.list,2022-07-22 04:39:42.089064
-failed/syntax-test,AVAILABILITY,test.list,2022-07-22 04:39:42.236434
-1120067982.world,AVAILABILITY,test.list,2022-07-22 04:39:43.038773
-1220057982.world,AVAILABILITY,test.list,2022-07-22 04:39:43.329276
 360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2022-07-22 16:18:56.282703
+_ldap._tcp.example.org,AVAILABILITY,test.list,2022-07-23 08:15:33.657415
+_ldap._tcp.example.net,AVAILABILITY,test.list,2022-07-23 08:15:33.901527
+_ldap._tcp.example.com,AVAILABILITY,test.list,2022-07-23 08:15:34.007697
+_http._tcp.example.org,AVAILABILITY,test.list,2022-07-23 08:15:34.118547
+_http._tcp.example.net,AVAILABILITY,test.list,2022-07-23 08:15:34.253690
+_http._tcp.example.com,AVAILABILITY,test.list,2022-07-23 08:15:34.387468
+invalid.invalid,AVAILABILITY,test.list,2022-07-23 08:15:34.404707
+failed/syntax-test,AVAILABILITY,test.list,2022-07-23 08:15:34.533069
+1120067982.world,AVAILABILITY,test.list,2022-07-23 08:15:35.163382
+1220057982.world,AVAILABILITY,test.list,2022-07-23 08:15:35.608990
