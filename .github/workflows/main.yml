@@ -34,7 +34,7 @@ jobs:
           token: "${{ secrets.BOT_REPO_PAT }}"
 
       - name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python_version }}
 
@@ -69,7 +69,7 @@ jobs:
           token: "${{ secrets.BOT_REPO_PAT }}"
 
       - name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python_version }}
 
