@@ -1,14 +1,14 @@
 idna_subject,checker_type,destination,tested_at
-www.kennethreitz.org,AVAILABILITY,test.list,2023-09-22 08:13:44.158578
-360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2023-09-22 08:13:46.603224
-_ldap._tcp.example.org,AVAILABILITY,test.list,2023-09-22 08:13:47.177009
-_ldap._tcp.example.net,AVAILABILITY,test.list,2023-09-22 08:13:48.119762
-_ldap._tcp.example.com,AVAILABILITY,test.list,2023-09-22 08:13:48.614143
-_http._tcp.example.org,AVAILABILITY,test.list,2023-09-22 08:13:49.088894
-_http._tcp.example.net,AVAILABILITY,test.list,2023-09-22 08:13:49.658022
-_http._tcp.example.com,AVAILABILITY,test.list,2023-09-22 08:13:50.079780
-invalid.invalid,AVAILABILITY,test.list,2023-09-22 08:13:50.096963
-failed/syntax-test,AVAILABILITY,test.list,2023-09-22 08:13:50.279672
-1120067982.world,AVAILABILITY,test.list,2023-09-22 08:13:51.125785
-1220057982.world,AVAILABILITY,test.list,2023-09-22 08:13:51.481927
 www.mypdns.org,AVAILABILITY,test.list,2023-09-22 12:17:58.555957
+www.kennethreitz.org,AVAILABILITY,test.list,2023-09-23 12:16:10.581094
+360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2023-09-23 12:16:11.816059
+_ldap._tcp.example.org,AVAILABILITY,test.list,2023-09-23 12:16:12.074397
+_ldap._tcp.example.net,AVAILABILITY,test.list,2023-09-23 12:16:12.547891
+_ldap._tcp.example.com,AVAILABILITY,test.list,2023-09-23 12:16:12.710610
+_http._tcp.example.org,AVAILABILITY,test.list,2023-09-23 12:16:12.856024
+_http._tcp.example.net,AVAILABILITY,test.list,2023-09-23 12:16:13.070058
+_http._tcp.example.com,AVAILABILITY,test.list,2023-09-23 12:16:13.236678
+invalid.invalid,AVAILABILITY,test.list,2023-09-23 12:16:13.255922
+failed/syntax-test,AVAILABILITY,test.list,2023-09-23 12:16:13.294843
+1120067982.world,AVAILABILITY,test.list,2023-09-23 12:16:14.010027
+1220057982.world,AVAILABILITY,test.list,2023-09-23 12:16:14.403711
