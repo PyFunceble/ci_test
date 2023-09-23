@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mypdns.org,AVAILABILITY,test.list,2023-09-22 12:17:58.555957
 www.kennethreitz.org,AVAILABILITY,test.list,2023-09-23 12:16:10.581094
 360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2023-09-23 12:16:11.816059
 _ldap._tcp.example.org,AVAILABILITY,test.list,2023-09-23 12:16:12.074397
@@ -12,3 +11,4 @@ invalid.invalid,AVAILABILITY,test.list,2023-09-23 12:16:13.255922
 failed/syntax-test,AVAILABILITY,test.list,2023-09-23 12:16:13.294843
 1120067982.world,AVAILABILITY,test.list,2023-09-23 12:16:14.010027
 1220057982.world,AVAILABILITY,test.list,2023-09-23 12:16:14.403711
+www.mypdns.org,AVAILABILITY,test.list,2023-09-23 16:11:43.483866
