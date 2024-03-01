@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-meetrics.ch,AVAILABILITY,test.list,2024-02-29 04:12:19.932365
 invalid.invalid,AVAILABILITY,test.list,2024-02-29 12:16:22.794728
 _ldap._tcp.example.com,AVAILABILITY,test.list,2024-02-29 12:16:22.971340
 _http._tcp.example.com,AVAILABILITY,test.list,2024-02-29 12:16:23.174000
