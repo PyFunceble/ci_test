@@ -12,3 +12,4 @@ _http._tcp.example.org,AVAILABILITY,test.list,2024-03-05 00:39:20.377492
 www.kennethreitz.org,AVAILABILITY,test.list,2024-03-05 00:39:22.236398
 360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2024-03-05 00:39:23.929369
 www.mypdns.org,AVAILABILITY,test.list,2024-03-05 08:12:51.915081
+failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2024-03-05 16:10:23.217291
