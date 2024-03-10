@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mypdns.org,AVAILABILITY,test.list,2024-03-08 20:09:19.452117
 invalid.invalid,AVAILABILITY,test.list,2024-03-09 12:14:17.180745
 failed/syntax-test,AVAILABILITY,test.list,2024-03-09 12:14:17.319662
 _http._tcp.example.com,AVAILABILITY,test.list,2024-03-09 12:14:17.524295
