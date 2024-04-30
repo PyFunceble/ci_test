@@ -60,7 +60,6 @@ cli_testing:
 collection:
     preferred_status_origin: recommended
     push: false
-    url_base: https://collection.dead-hosts.funilrys.com
 debug:
     active: false
     level: info
