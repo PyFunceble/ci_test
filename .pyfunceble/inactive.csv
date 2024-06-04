@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mypdns.org,AVAILABILITY,test.list,2024-06-03 00:44:55.729196
 invalid.invalid,AVAILABILITY,test.list,2024-06-03 04:14:52.834597
 _http._tcp.example.com,AVAILABILITY,test.list,2024-06-03 04:14:53.001593
 _ldap._tcp.example.com,AVAILABILITY,test.list,2024-06-03 04:14:53.117718
