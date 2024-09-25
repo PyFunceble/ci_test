@@ -57,9 +57,6 @@ cli_testing:
         reputation: false
         syntax: false
     whois_db: true
-collection:
-    preferred_status_origin: recommended
-    push: false
 debug:
     active: false
     level: info
@@ -138,15 +135,22 @@ links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
-    collection: false
     dns: true
     http_status_code: true
     netinfo: true
+    platform: false
     reputation: false
     special: true
     timeout: 5
     whois: true
 max_http_retries: 3
+platform:
+    checker_exclude:
+    - none
+    checker_priority:
+    - none
+    preferred_status_origin: recommended
+    push: false
 proxy:
     global:
         http: null
