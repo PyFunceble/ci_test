@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mypdns.org,AVAILABILITY,test.list,2024-09-29 00:58:09.632683+00:00
-failure.is.the.only.option.mypdns.org,AVAILABILITY,test.list,2024-09-29 00:58:29.020791+00:00
 invalid.invalid,AVAILABILITY,test.list,2024-09-29 16:13:53.836520+00:00
 _ldap._tcp.example.com,AVAILABILITY,test.list,2024-09-29 16:13:54.306848+00:00
 _http._tcp.example.com,AVAILABILITY,test.list,2024-09-29 16:13:54.463530+00:00
