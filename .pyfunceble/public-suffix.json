@@ -1564,7 +1564,6 @@
         "homesecuritypc.com",
         "homeunix.com",
         "hostedpi.com",
-        "hosting-cluster.nl",
         "hotelwithflight.com",
         "iamallama.com",
         "il-central-1.airflow.amazonaws.com",
@@ -8994,7 +8993,6 @@
         "info.ve",
         "int.ve",
         "mil.ve",
-        "net.ve",
         "nom.ve",
         "org.ve",
         "rar.ve",
@@ -9183,6 +9181,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
+        "net.ve",
         "org.zw"
     ],
     "рус": [
