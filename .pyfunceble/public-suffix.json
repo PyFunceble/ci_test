@@ -8993,6 +8993,7 @@
         "info.ve",
         "int.ve",
         "mil.ve",
+        "net.ve",
         "nom.ve",
         "org.ve",
         "rar.ve",
@@ -9181,7 +9182,6 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "net.ve",
         "org.zw"
     ],
     "рус": [
