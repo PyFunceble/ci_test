@@ -25,6 +25,8 @@ cli_testing:
     display_mode:
         all: false
         colour: true
+        datetime: false
+        datetime_format: '%Y-%m-%d %H:%M:%S'
         dots: false
         execution_time: false
         less: true
@@ -159,4 +161,5 @@ user_agent:
     browser: chrome
     custom: null
     platform: linux
+    reference: null
 verify_ssl_certificate: false
