@@ -1,5 +1,9 @@
 # VS Code related
 .vscode
 
-# Env related
-miniconda.sh
+output/__pyfunceble_logging__/
+
+.pyfunceble/*.json
+.pyfunceble/.*.json
+.pyfunceble/*.yaml
+.pyfunceble/.*.yaml

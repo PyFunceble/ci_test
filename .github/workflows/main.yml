@@ -23,24 +23,24 @@ jobs:
       fail-fast: false
       matrix:
         python_version:
-          - "3.11"
+          - "3.12"
         os:
           - ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: Clone repository
         with:
           token: "${{ secrets.BOT_REPO_PAT }}"
 
       - name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python_version }}
 
       - name: Install dependencies
         run: |
-          pip install git+https://github.com/funilrys/PyFunceble.git@dev
+          pip install git+https://github.com/funilrys/PyFunceble.git@new-proc-manager
 
       - name: Get PyFunceble version
         run: |
@@ -48,7 +48,7 @@ jobs:
 
       - name: Run PyFunceble
         run: |
-          PyFunceble -a --logging-level critical -d github.com
+          PyFunceble -a -d github.com
 
   file_and_push:
     name: Run PyFunceble against a file and push result to repository
@@ -58,24 +58,24 @@ jobs:
       fail-fast: false
       matrix:
         python_version:
-          - "3.11"
+          - "3.12"
         os:
           - ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: Clone repository
         with:
           token: "${{ secrets.BOT_REPO_PAT }}"
 
       - name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python_version }}
 
       - name: Install dependencies
         run: |
-          pip install git+https://github.com/funilrys/PyFunceble.git@dev
+          pip install git+https://github.com/funilrys/PyFunceble.git@new-proc-manager
 
       - name: Get PyFunceble version
         run: |
@@ -83,4 +83,4 @@ jobs:
 
       - name: Run PyFunceble
         run: |
-          PyFunceble -a --ci --logging-level critical -f test.list
+          PyFunceble -a --ci -f test.list
