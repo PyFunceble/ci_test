@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.kennethreitz.org,AVAILABILITY,test.list,2024-12-31 08:16:00.052944+00:00
 invalid.invalid,AVAILABILITY,test.list,2025-01-02 04:27:59.534122+00:00
 _http._tcp.example.com,AVAILABILITY,test.list,2025-01-02 04:27:59.652227+00:00
 failed/syntax-test,AVAILABILITY,test.list,2025-01-02 04:27:59.752925+00:00
@@ -11,3 +10,4 @@ _http._tcp.example.net,AVAILABILITY,test.list,2025-01-02 04:28:00.215981+00:00
 1120067982.world,AVAILABILITY,test.list,2025-01-02 04:28:00.650116+00:00
 1220057982.world,AVAILABILITY,test.list,2025-01-02 04:28:00.817837+00:00
 360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2025-01-02 04:28:01.403724+00:00
+www.kennethreitz.org,AVAILABILITY,test.list,2025-01-03 04:28:13.011129+00:00
