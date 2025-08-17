@@ -1,5 +1,6 @@
 name: Launch a new test
 on:
+  workflow_dispatch: {}
   schedule:
     - cron: "0 4 */1 * *"
 

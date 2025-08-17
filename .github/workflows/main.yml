@@ -6,6 +6,7 @@ on:
   pull_request:
     branches:
       - "master"
+  workflow_dispatch: {}
 
 env:
   PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
@@ -40,7 +41,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install git+https://github.com/funilrys/PyFunceble.git@new-proc-manager
+          pip install --pre pyfunceble-dev
 
       - name: Get PyFunceble version
         run: |
@@ -75,7 +76,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install git+https://github.com/funilrys/PyFunceble.git@new-proc-manager
+          pip install --pre pyfunceble-dev
 
       - name: Get PyFunceble version
         run: |
