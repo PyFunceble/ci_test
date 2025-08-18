@@ -1,10 +1,26 @@
 {
     "counter": {
+        "1API GmbH": 2,
+        "Gandi SAS": 4,
+        "Go Daddy, LLC": 2,
         "ICANN": 2,
-        "total": 2
+        "INSTRA CORPORATION PTY LTD": 2,
+        "MarkMonitor Inc.": 4,
+        "RU-CENTER-RU": 2,
+        "RegistryGate GmbH": 2,
+        "Squarespace Domains II LLC": 2,
+        "total": 22
     },
     "percentage": {
-        "ICANN": 100.0,
-        "total": 100.0
+        "1API GmbH": 9.090909090909092,
+        "Gandi SAS": 18.181818181818183,
+        "Go Daddy, LLC": 9.090909090909092,
+        "ICANN": 9.090909090909092,
+        "INSTRA CORPORATION PTY LTD": 9.090909090909092,
+        "MarkMonitor Inc.": 18.181818181818183,
+        "RU-CENTER-RU": 9.090909090909092,
+        "RegistryGate GmbH": 9.090909090909092,
+        "Squarespace Domains II LLC": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
