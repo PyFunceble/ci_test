@@ -9,18 +9,22 @@
         "RU-CENTER-RU": 2,
         "RegistryGate GmbH": 2,
         "Squarespace Domains II LLC": 2,
-        "total": 22
+        "URL Solutions Inc.": 2,
+        "total": 26,
+        "广东时代互联科技有限公司": 2
     },
     "percentage": {
-        "1API GmbH": 9.090909090909092,
-        "Gandi SAS": 18.181818181818183,
-        "Go Daddy, LLC": 9.090909090909092,
-        "ICANN": 9.090909090909092,
-        "INSTRA CORPORATION PTY LTD": 9.090909090909092,
-        "MarkMonitor Inc.": 18.181818181818183,
-        "RU-CENTER-RU": 9.090909090909092,
-        "RegistryGate GmbH": 9.090909090909092,
-        "Squarespace Domains II LLC": 9.090909090909092,
-        "total": 100.00000000000001
+        "1API GmbH": 7.6923076923076925,
+        "Gandi SAS": 15.384615384615385,
+        "Go Daddy, LLC": 7.6923076923076925,
+        "ICANN": 7.6923076923076925,
+        "INSTRA CORPORATION PTY LTD": 7.6923076923076925,
+        "MarkMonitor Inc.": 15.384615384615385,
+        "RU-CENTER-RU": 7.6923076923076925,
+        "RegistryGate GmbH": 7.6923076923076925,
+        "Squarespace Domains II LLC": 7.6923076923076925,
+        "URL Solutions Inc.": 7.6923076923076925,
+        "total": 100.0,
+        "广东时代互联科技有限公司": 7.6923076923076925
     }
 }
