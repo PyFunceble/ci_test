@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-discord.actinium.org,AVAILABILITY,test.list,2025-11-26 04:34:13.030105+00:00
-fastpool.actinium.org,AVAILABILITY,test.list,2025-11-26 04:34:14.288271+00:00
-ln-explorer.actinium.org,AVAILABILITY,test.list,2025-11-26 04:34:15.345207+00:00
-faucet.actinium.org,AVAILABILITY,test.list,2025-11-26 04:34:16.177058+00:00
-test-explorer.actinium.org,AVAILABILITY,test.list,2025-11-26 04:34:16.892222+00:00
-invalid.invalid,AVAILABILITY,test.list,2025-11-26 04:34:16.916909+00:00
-transfer.actinium.org,AVAILABILITY,test.list,2025-11-26 04:34:17.949210+00:00
 failed/syntax-test,AVAILABILITY,test.list,2025-11-27 04:33:07.166952+00:00
 6006999.com,AVAILABILITY,test.list,2025-11-27 04:33:07.475090+00:00
 www.discord.actinium.org,AVAILABILITY,test.list,2025-11-27 04:33:08.133613+00:00
@@ -34,3 +27,10 @@ xn--disordapp-s3a.com,AVAILABILITY,test.list,2025-11-27 04:33:10.900404+00:00
 1220057982.world,AVAILABILITY,test.list,2025-11-27 04:33:11.290579+00:00
 360safe.xn--com-5ma.cn,AVAILABILITY,test.list,2025-11-27 04:33:11.904461+00:00
 www.kennethreitz.org,AVAILABILITY,test.list,2025-11-27 04:33:13.244318+00:00
+discord.actinium.org,AVAILABILITY,test.list,2025-11-28 04:33:12.141478+00:00
+ln-explorer.actinium.org,AVAILABILITY,test.list,2025-11-28 04:33:13.053652+00:00
+fastpool.actinium.org,AVAILABILITY,test.list,2025-11-28 04:33:13.321829+00:00
+faucet.actinium.org,AVAILABILITY,test.list,2025-11-28 04:33:14.235528+00:00
+invalid.invalid,AVAILABILITY,test.list,2025-11-28 04:33:14.260178+00:00
+test-explorer.actinium.org,AVAILABILITY,test.list,2025-11-28 04:33:14.667741+00:00
+transfer.actinium.org,AVAILABILITY,test.list,2025-11-28 04:33:15.270954+00:00
