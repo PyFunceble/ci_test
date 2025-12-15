@@ -29,7 +29,7 @@ jobs:
           - ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         name: Clone repository
         with:
           token: "${{ secrets.BOT_REPO_PAT }}"
@@ -64,7 +64,7 @@ jobs:
           - ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         name: Clone repository
         with:
           token: "${{ secrets.BOT_REPO_PAT }}"
